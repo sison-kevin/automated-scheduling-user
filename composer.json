@@ -1,0 +1,8 @@
+{
+  "name": "pet/auto-sched",
+  "description": "Automated Scheduling web app with FreeSQLDatabase deployment",
+  "type": "project",
+  "require": {
+    "php": "^8.0"
+  }
+}
